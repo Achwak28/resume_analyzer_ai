@@ -14,7 +14,7 @@ spacy==2.3.5
 
 
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
-spacy download en_core_web_sm
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0.tar.gz#egg=en_core_web_sm
 
 # Download NLTK dataset
 nltk.downloader words
